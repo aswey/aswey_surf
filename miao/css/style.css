@@ -501,7 +501,7 @@ div#team,.w3l-about.sponsors {
 	-ms-transition: 0.5s all;
 }
 .w3_tab_img_left:hover .agile-gallery-info{
-	background: #2ebaef;
+	background:#FFDD55;
 	color:#FFFFFF;
 }
 .w3_tab_img_left:hover .agile-gallery-info p{
