@@ -1730,7 +1730,7 @@ p.b_label {
     margin-left: 5em;
 }
 .w3ls-banner {
-    background:url(../images/banner.jpg)no-repeat center;
+    /*background:url(../images/banner.jpg)no-repeat center;*/
 }
 .w3ls-banner-1 {
     min-height: 250px;
