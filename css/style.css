@@ -1961,6 +1961,7 @@ div#bs-example-navbar-collapse-1 {
 @media(max-width:640px){
 .w3ls-banner {
     /*background:url(../images/banner.jpg)no-repeat center;*/
+    background:url(../images/banner.gif)no-repeat center;
 }
 .w3ls-banner-1 {
     min-height: 200px;
@@ -2017,7 +2018,8 @@ div#bs-example-navbar-collapse-1 {
 @media(max-width:480px){
 
 .w3ls-banner {
-   /* background:url(../images/banner.jpg)no-repeat center; */
+    /*background:url(../images/banner.jpg)no-repeat center;*/
+    background:url(../images/banner.gif)no-repeat center;
 }
 .w3ls-banner-1 {
     min-height: 140px;
@@ -2072,7 +2074,8 @@ div#bs-example-navbar-collapse-1 {
     width: 100%;
 }
 .w3ls-banner {
-   /* background:url(../images/banner.jpg)no-repeat center; */
+    /*background:url(../images/banner.jpg)no-repeat center;*/
+    background:url(../images/banner.gif)no-repeat center;
 }
 .w3ls-banner-1 {
     min-height: 140px;
@@ -2169,7 +2172,8 @@ div#bs-example-navbar-collapse-1 {
     padding: 3em 0 6em;
 }
 .w3ls-banner {
-    /* background:url(../images/banner.jpg)no-repeat center; */
+    /*background:url(../images/banner.jpg)no-repeat center;*/
+    background:url(../images/banner.gif)no-repeat center;
 }
 .w3ls-banner-1 {
     min-height: 110px;
