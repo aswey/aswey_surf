@@ -281,7 +281,7 @@ img.img-responsive {
 	min-height: 447px;
 }
 .welcome-right {
-    background: url(../images/gallery/g8.jpg)no-repeat center;
+    background: url(../images/pic1.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -335,7 +335,7 @@ img.img-responsive {
 }
 
 .welcome-bottom-left{
-    background: url(../images/gallery/g5.jpg)no-repeat center;
+    background: url(../images/pic2.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
