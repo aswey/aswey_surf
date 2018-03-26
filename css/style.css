@@ -592,7 +592,7 @@ ul.agileits_social_list {
     font-size: 14px;
     color: #BBBBBB;
     line-height: 1.8em;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 .footer-grids p span{
 	display:block;
